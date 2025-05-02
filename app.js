@@ -1,6 +1,6 @@
 import { calculadoraTotal } from "./utils/calculadora";
 import { aplicarDesconto } from "./utils/discount";
-
+import { log } from "./utils/log";
 
 const form = document.getElementById('pedidoForm');
 
